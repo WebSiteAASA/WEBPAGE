@@ -2,7 +2,7 @@
 
 Usted podrá vizualizar la página web en el siguiente link:
 
-[https://psmedinadi22.github.io/AASA-Web-Page/](https://psmedinadi22.github.io/AASA-Web-Page/)
+[https://websiteaasa.github.io/WEBPAGE/index.html](https://websiteaasa.github.io/WEBPAGE/index.html)
 
 
 # Tutorial para agregar un proyecto en la página web
