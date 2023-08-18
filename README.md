@@ -47,7 +47,7 @@ El proceso de subir las imágenes es exitoso, ahora es momento de agregar la sec
 
 ```
                                         <!--Aqui comienza el NUMERO proyecto -->
-					<li class="item web identity">
+					<li class="item INDUSTRIA identity">
 						<div class="image">
 							<img src="images/Fotos web/PROYECTO/NOMBRE DE LA IMAGEN" alt="" />
 							<div class="hover">
