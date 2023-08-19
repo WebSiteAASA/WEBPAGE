@@ -2,7 +2,7 @@
 
 Usted podrá vizualizar la página web en el siguiente link:
 
-[https://psmedinadi22.github.io/AASA-Web-Page/](https://psmedinadi22.github.io/AASA-Web-Page/)
+[https://websiteaasa.github.io/WEBPAGE/index.html](https://websiteaasa.github.io/WEBPAGE/index.html)
 
 
 # Tutorial para agregar un proyecto en la página web
@@ -47,7 +47,7 @@ El proceso de subir las imágenes es exitoso, ahora es momento de agregar la sec
 
 ```
                                         <!--Aqui comienza el NUMERO proyecto -->
-					<li class="item web identity">
+					<li class="item INDUSTRIA identity">
 						<div class="image">
 							<img src="images/Fotos web/PROYECTO/NOMBRE DE LA IMAGEN" alt="" />
 							<div class="hover">
