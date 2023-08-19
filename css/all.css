@@ -636,11 +636,11 @@ a:hover{text-decoration:underline;}
 }
 	.box_contact span.email {
 		background: url(../images/email-removebg-preview.png) no-repeat;
-		background-size: 50px; /* Ajusta el tamaño deseado de la imagen */
+		background-size: 45px; /* Ajusta el tamaño deseado de la imagen */
 	}
 .box_contact span.phone {
 		background: url(../images/telefono-removebg-preview.png) no-repeat;
-		background-size: 50px; /* Ajusta el tamaño deseado de la imagen */
+		background-size: 45px; /* Ajusta el tamaño deseado de la imagen */
 	
 }
 
@@ -762,18 +762,19 @@ a:hover{text-decoration:underline;}
 	}
 
 /* begin add	 */
-		.popup_portfolio{
-	max-width: 1132px;
+.popup_portfolio {
+	max-width: 1000px;
+	text-align: justify;
 }
-.popup_portfolio h3{
-	padding-top:26px;
-	font-family: 'novecentosanswide';
-	font-weight:bold;
-	color: #63666a;
-	font-size: 18px;
-	line-height: 18px;
-	text-transform: uppercase;
-}
+	.popup_portfolio h3 {
+		padding: 17px 20px 8px 0;
+		font-family: 'novecentosanswide';
+		font-weight: bold;
+		color: #63666a;
+		font-size: 18px;
+		line-height: 18px;
+		text-transform: uppercase;
+	}
 .popup_portfolio time{
 	font-family: 'novecentosanswide';
 	color: #abacaf;
@@ -781,12 +782,12 @@ a:hover{text-decoration:underline;}
 	line-height: 12px;
 	text-transform: uppercase;
 }
-.popup_portfolio p{
-	padding: 17px 0 8px;
-	color: #808286;
-	font-size: 16px;
-	line-height: 30px;
-}
+.popup_portfolio p {
+		padding: 17px 20px 8px 0;
+		color: #808286;
+		font-size: 16px;
+		line-height: 30px;
+	}
 .popup_portfolio img {
 	width: 100%;
 	height: auto;

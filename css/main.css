@@ -153,10 +153,11 @@
 
 /* Box */
 
-	.box {
-		margin-bottom: 2rem;
-		background: #FFF;
-	}
+.box {
+	margin-bottom: 2rem;
+	background: #FFF;
+	text-align: center;
+}
 
 		.box .content {
 			padding: 3rem;
